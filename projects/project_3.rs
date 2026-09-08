@@ -4,7 +4,7 @@ fn main() {
 
 	//loop to calculate depreciation for the 3 years
 	for _ in 0..3 {
-	tv = tv - (rate / 100.0 * tv);
+		tv = tv - (rate / 100.0 * tv);
 	}
 
 	//to display current value after 3 years
