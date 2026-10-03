@@ -1,0 +1,1 @@
+C:\Users\tolui\OneDrive\Desktop\PAU\100\ Level\COS\ 101\i.ipinoluCOS101\week-6\project_1\target\debug\project_1.exe: C:\Users\tolui\OneDrive\Desktop\PAU\100\ Level\COS\ 101\i.ipinoluCOS101\week-6\project_1\src\main.rs
