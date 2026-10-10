@@ -91,8 +91,8 @@ fn main() {
     println!("===========================================================");
     println!("Calculate the area or volume of your chosen geometric shape");
 
-    let city_arr: [&str; 5] = ["Trapezium", "Rhombus", "Parallelogram", "Cube", "Cylinder"];
-    println!("The shapes available are {:?}", city_arr);
+    let shape_arr: [&str; 5] = ["Trapezium", "Rhombus", "Parallelogram", "Cube", "Cylinder"];
+    println!("The shapes available are {:?}", shape_arr);
 
     let mut shape_type = String::new();
     println!("\nWhat shape do you want to calculate:");
